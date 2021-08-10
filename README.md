@@ -3,7 +3,7 @@
 🛠️ Atualmente trabalhando no projeto Budget App. Uma aplicação em ASP.NET e SQL SERVER com front-end em Blazor.
 <p>📚 Estudando ElasticSearch e começando e começando no React 
 
- 👮‍♂️🏋️‍♀️🏃🎮 no resto do tempo.
+ 👮‍♂️🏋️‍♀️🏃🍷🎮 no resto do tempo.
 
 <div>
   <a href="https://github.com/tiagoASF">
