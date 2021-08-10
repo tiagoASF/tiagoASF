@@ -1,7 +1,7 @@
 ## Olá! Sou o Tiago 👋
 <p>
 🛠️ Atualmente trabalhando no projeto Budget App. Uma aplicação em ASP.NET e SQL SERVER com front-end em Blazor.
-<p>📚 Estudando React
+<p>📚 Estudando ElasticSearch e começando com React 
 
  👮‍♂️🏋️‍♀️🏃🎮 no resto do tempo.
 
