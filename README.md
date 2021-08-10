@@ -1,6 +1,9 @@
 ### Olá! Sou o Tiago 👋
 
-🛠️ Atualmente trabalhando no projeto Budget App
+🛠️ Atualmente trabalhando no projeto Budget App. Uma aplicação em ASP.NET e SQL SERVER com front-end em Blazor.
+📚 Estudando React
+
+E quando sobra um tempo... 🏋️‍♀️🏃🎮
 
 <!--
 **tiagoASF/tiagoASF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
