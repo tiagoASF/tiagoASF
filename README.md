@@ -3,11 +3,11 @@
 <h3 align="center"> 
 	🚧  Github em construção...  🚧
 </h3>
-
+<br><br><br>
 
 <p>
-🛠️ Publicando os projetos de SQL e SQL Server.. <progress id="file" value="32" max="100"> 32% </progress>
-<p>📚 Estudando NodeJS e JS. Começando e no React 
+🛠️ Publicando os projetos de SQL e SQL Server.. 
+<p>📚 Estudando NodeJS e JS. Começando no React 
 
  👮‍♂️🏋️‍♀️🏃🍷🎮 no resto do tempo.
 
