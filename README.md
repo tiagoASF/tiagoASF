@@ -1,7 +1,7 @@
 ## Olá! Sou o Tiago 👋
 
 <h3 align="center"> 
-	🚧  Github em construção...  🚧
+	🚧  Github em (RE)construção...  🚧
 </h3>
 <br><br><br>
 
@@ -10,7 +10,8 @@
 <p>📚 Estudando NodeJS e JS. Começando no React 
 
  👮‍♂️🏋️‍♀️🏃🍷🎮 no resto do tempo.
-
+<br><br><br>
+	
 <div>
   <a href="https://github.com/tiagoASF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoASF&show_icons=true&include_all_commits=true&count_private=true"/>
