@@ -7,7 +7,7 @@
 
 <p>
 🛠️ Publicando os projetos de SQL e SQL Server.. 
-<p>📚 Estudando NodeJS e JS. Começando no React 
+<p>📚 Estudando JS, NodeJS e começando no React 
 
  👮‍♂️🏋️‍♀️🏃🍷🎮 no resto do tempo.
 <br><br><br>
